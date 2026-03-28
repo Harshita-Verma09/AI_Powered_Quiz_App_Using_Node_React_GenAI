@@ -84,9 +84,6 @@ Frontend runs at `http://localhost:5173`
 
 ---
 
-## Contact
-
-For queries, reach out at [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
