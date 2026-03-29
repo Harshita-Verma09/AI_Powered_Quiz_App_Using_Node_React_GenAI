@@ -8,6 +8,7 @@ Showcase your full-stack skills and experience with AI integration!
 ## Features
 
 
+
 - **Topic Selection:** Choose JavaScript, React, or Python before starting the quiz.
 - **AI-Generated Questions:** Questions are fetched in real-time from the backend using Hugging Face GenAI models.
 - **Multiple Choice Questions:** Four options per question, with instant feedback.
